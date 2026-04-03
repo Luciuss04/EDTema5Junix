@@ -7,10 +7,16 @@ Para cada ejercicio se analiza el método, se calcula la complejidad ciclomátic
 los casos de prueba necesarios para cubrir todas las ramas del código.
 
 🛠️ Tecnologías
-TecnologíaVersiónJava17JUnit5.10.0Gradle8.x
+
+☕ Java 17
+🧪 JUnit 5.10.0
+🐘 Gradle 8.x
+
 
 📁 Ejercicios
-#MétodoDescripción1signoDetermina el signo de un número entero2clasificarEdadClasifica una edad en una etapa de la vida
+
+Ejercicio 1 – signo → Determina el signo de un número entero
+Ejercicio 2 – clasificarEdad → Clasifica una edad en una etapa de la vida
 
 
 
